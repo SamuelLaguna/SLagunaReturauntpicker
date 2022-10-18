@@ -1,0 +1,15 @@
+/Users/samlaguna/Documents/Level1/SLagunaReturauntpicker/bin/Debug/net6.0/SLagunaReturauntpicker
+/Users/samlaguna/Documents/Level1/SLagunaReturauntpicker/bin/Debug/net6.0/SLagunaReturauntpicker.deps.json
+/Users/samlaguna/Documents/Level1/SLagunaReturauntpicker/bin/Debug/net6.0/SLagunaReturauntpicker.runtimeconfig.json
+/Users/samlaguna/Documents/Level1/SLagunaReturauntpicker/bin/Debug/net6.0/SLagunaReturauntpicker.dll
+/Users/samlaguna/Documents/Level1/SLagunaReturauntpicker/bin/Debug/net6.0/SLagunaReturauntpicker.pdb
+/Users/samlaguna/Documents/Level1/SLagunaReturauntpicker/obj/Debug/net6.0/SLagunaReturauntpicker.csproj.AssemblyReference.cache
+/Users/samlaguna/Documents/Level1/SLagunaReturauntpicker/obj/Debug/net6.0/SLagunaReturauntpicker.GeneratedMSBuildEditorConfig.editorconfig
+/Users/samlaguna/Documents/Level1/SLagunaReturauntpicker/obj/Debug/net6.0/SLagunaReturauntpicker.AssemblyInfoInputs.cache
+/Users/samlaguna/Documents/Level1/SLagunaReturauntpicker/obj/Debug/net6.0/SLagunaReturauntpicker.AssemblyInfo.cs
+/Users/samlaguna/Documents/Level1/SLagunaReturauntpicker/obj/Debug/net6.0/SLagunaReturauntpicker.csproj.CoreCompileInputs.cache
+/Users/samlaguna/Documents/Level1/SLagunaReturauntpicker/obj/Debug/net6.0/SLagunaReturauntpicker.dll
+/Users/samlaguna/Documents/Level1/SLagunaReturauntpicker/obj/Debug/net6.0/refint/SLagunaReturauntpicker.dll
+/Users/samlaguna/Documents/Level1/SLagunaReturauntpicker/obj/Debug/net6.0/SLagunaReturauntpicker.pdb
+/Users/samlaguna/Documents/Level1/SLagunaReturauntpicker/obj/Debug/net6.0/SLagunaReturauntpicker.genruntimeconfig.cache
+/Users/samlaguna/Documents/Level1/SLagunaReturauntpicker/obj/Debug/net6.0/ref/SLagunaReturauntpicker.dll
