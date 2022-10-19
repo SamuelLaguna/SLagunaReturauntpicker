@@ -22,3 +22,4 @@ Console.WriteLine(BurgerArray.Length);
 Console.WriteLine(BurgerArray[7]);
 
 //Next i have to make it when it picks on Random.
+//next
